@@ -10,7 +10,7 @@ come with a suitable solution.
 That said, if interested in my approach and comments I invite
 you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/05/18/sam-and-substrings/
 
 Keep on reading and experimenting.
 It is one of the best ways to learn.
